@@ -70,16 +70,17 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
 ### 🏆 Scoreboard (Estadísticas)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEAR-0911&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEAR-0911&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=FF00CC&fire=FF00CC&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF00CC&sideLabels=FF00CC" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEAR-0911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="Top Langs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEAR-0911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC" alt="Top Langs" height="160" />
 </div>
 
 ---
 
 ### 🐍 Snake Game (Activity Graph)
+
 <div align="center">
-  <img src="https://github.com/MEAR-0911/MEAR-0911/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
