@@ -69,9 +69,13 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
 
 ### 🏆 Scoreboard (Estadísticas)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEAR-0911&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=FF00CC&fire=FF00CC&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF00CC&sideLabels=FF00CC)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEAR-0911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/main/profile-summary-card-output/2077/1-repos-per-language.svg" height="170" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/main/profile-summary-card-output/2077/0-profile-details.svg" height="170" alt="Profile Details" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/main/profile-summary-card-output/2077/2-most-commit-language.svg" height="170" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/main/profile-summary-card-output/2077/3-stats.svg" height="170" alt="Stats" />
+</div>
 
 ---
 
