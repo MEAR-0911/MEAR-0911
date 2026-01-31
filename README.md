@@ -32,7 +32,7 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="10">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,c,cpp,pytho&perline=20" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,c,cpp,pytho,Arduino&perline=20" />
   </marquee>
 </div>
 
