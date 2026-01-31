@@ -28,37 +28,70 @@ Combino la disciplina de la ingeniería con la creatividad del desarrollo de vid
 
 Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fueran clases de un RPG.
 
-<h3 align="center">🛠️ Languages </h3>
-
+<h3 align="center">👨‍💻 Languages </h3>
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10" width="100%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50"/></marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60"/> 
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    </marquee>
 </div>
 
-#### 🛡️ The Core (Lenguajes)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<h3 align="center"> 🏗️ Servers & Frameworks </h3>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src=img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60"/>
+    </marquee>
+</div>
 
-#### 🗡️ Front-End & Design (Interfaz)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Libresprite](https://img.shields.io/badge/Libresprite-7289DA?style=for-the-badge&logo=artstation&logoColor=white)
+<h3 align="center">🛠️ Some Tools </h3>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intelliJ" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="60"/> 
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="60" />
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src=".github/assets/libresprite.png" alt="libresprite" width="60"/>
+    </marquee>
+</div>
 
-#### 🏗️ Back-End & Data (Estructura)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🔮 AI Co-Pilots & Herramientas
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+<h3 align="center">🔮 AI Co-Pilots </h3>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
+    <img src=".github/assets/gemini.png" alt="Gemini" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src=".github/assets/claude.png" alt="Claude" width="60"/>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src=".github/assets/copilot.png" alt="Copilot" width="60"/>
+    </marquee>
+</div>
 
 ---
 
