@@ -47,6 +47,7 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
     &nbsp; &nbsp; &nbsp; &nbsp;
     </marquee>
 </div>
+
 ---
 
 ### 🏗️ Servers & Frameworks 
@@ -63,6 +64,7 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60"/>
     </marquee>
 </div>
+
 ---
 
 ### 🛠️ Some Tools
@@ -83,6 +85,7 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
     <img src=".github/assets/libresprite.png" alt="libresprite" width="60"/>
     </marquee>
 </div>
+
 ---
 
 ### 🔮 AI Co-Pilots
