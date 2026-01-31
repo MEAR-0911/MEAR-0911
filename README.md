@@ -31,9 +31,22 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
 <h3 align="center">🛠️ Languages </h3>
 
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,c,cpp,pytho&perline=20" />
-  </marquee>
+  <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    </marquee>
 </div>
 
 #### 🛡️ The Core (Lenguajes)
