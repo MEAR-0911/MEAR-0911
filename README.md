@@ -130,7 +130,6 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
   <td align="center">
       <img src=".github/assets/fisicCircuit.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 4" />
     </td>
-  </tr>
   <td align="center">
       <img src=".github/assets/distanceSensor.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 4" />
     </td>
