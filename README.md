@@ -123,7 +123,6 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
     <td align="center">
       <img src=".github/assets/circuit3.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 3" />
     </td>
-  <tr>
     <td align="center">
       <img src=".github/assets/materials.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 4" />
     </td>
