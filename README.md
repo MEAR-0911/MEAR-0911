@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0_000000_100_20232a&height=180&section=header&text=PLAYER%201%20READY&fontSize=40&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20Informático%20en%20Formación%20@%20UCAB&descAlignY=60&descAlign=50" width="100%" />
+  <img src="./assets/header.png" width="100%" alt="Banner Principal" />
 </div>
 
 <div align="center">
@@ -27,6 +27,14 @@ Combino la disciplina de la ingeniería con la creatividad del desarrollo de vid
 ### ⚔️ Inventory & Skill Tree
 
 Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fueran clases de un RPG.
+
+<h3 align="center">🛠️ Languages </h3>
+
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,c,cpp,pytho&perline=20" />
+  </marquee>
+</div>
 
 #### 🛡️ The Core (Lenguajes)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -70,16 +78,18 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
 ### 🏆 Scoreboard (Estadísticas)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/main/profile-summary-card-output/2077/1-repos-per-language.svg" height="170" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/main/profile-summary-card-output/2077/0-profile-details.svg" height="170" alt="Profile Details" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/main/profile-summary-card-output/2077/2-most-commit-language.svg" height="170" alt="Most Commit Language" />
-  <img src="https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/main/profile-summary-card-output/2077/3-stats.svg" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MEAR-0911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC" height="180" alt="Stats Generales" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEAR-0911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC" height="180" alt="Lenguajes Top" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEAR-0911&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00CC&fire=FF00CC&currStreakLabel=FF00CC" alt="Racha" />
 </div>
 
 ---
 
-### 🐍 Snake Game (Activity Graph)
+### 🐍 Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/MEAR-0911/MEAR-0911/output/github-contribution-grid-snake.svg)
 
