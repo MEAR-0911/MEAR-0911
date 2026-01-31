@@ -28,7 +28,8 @@ Combino la disciplina de la ingeniería con la creatividad del desarrollo de vid
 
 Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fueran clases de un RPG.
 
-### 👨‍💻 Languages 
+### 👨‍💻 Languages
+<h2>👨‍💻 Languages</h2> 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
