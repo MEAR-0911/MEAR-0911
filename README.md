@@ -28,7 +28,7 @@ Combino la disciplina de la ingeniería con la creatividad del desarrollo de vid
 
 Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fueran clases de un RPG.
 
-<h3 align="center">👨‍💻 Languages </h3>
+### 👨‍💻 Languages 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
@@ -48,7 +48,8 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
     </marquee>
 </div>
 ---
-<h3 align="center"> 🏗️ Servers & Frameworks </h3>
+
+### 🏗️ Servers & Frameworks 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/>
@@ -63,7 +64,8 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
     </marquee>
 </div>
 ---
-<h3 align="center">🛠️ Some Tools </h3>
+
+### 🛠️ Some Tools
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="60"/>
@@ -82,7 +84,8 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
     </marquee>
 </div>
 ---
-<h3 align="center">🔮 AI Co-Pilots </h3>
+
+### 🔮 AI Co-Pilots
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
     <img src=".github/assets/gemini.png" alt="Gemini" width="60"/>
