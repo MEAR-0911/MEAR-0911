@@ -29,7 +29,6 @@ Combino la disciplina de la ingeniería con la creatividad del desarrollo de vid
 Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fueran clases de un RPG.
 
 ### 👨‍💻 Languages
-<h2>👨‍💻 Languages</h2> 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" width="100%">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
@@ -58,7 +57,7 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
     &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60"/>
     &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src=img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="60"/>
     &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="60"/>
     &nbsp; &nbsp; &nbsp; &nbsp;
@@ -105,11 +104,38 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
 ### 🔌 Hardware Lab (Robótica)
 *Mis experimentos uniendo bits y átomos.*
 
-| Proyecto | Descripción | Tech |
-| :--- | :--- | :--- |
-| **🤖 [Nombre Robot]** | Robot autónomo con sensores | Arduino, C++ |
-| **🏠 [Sistema IoT]** | Control domótico vía web | ESP32, Angular |
-| **🎮 [Tinkercad]** | Mis simulaciones de circuitos | [Ver Perfil](TU_LINK_TINKERCAD) |
+<div align="center">
+  <a href="https://www.tinkercad.com/dashboard/designs/all" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_mis_circuitos_en-TINKERCAD-2481f2?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
+  </a>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src=".github/assets/circuit.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 1" />
+    </td>
+    <td align="center">
+      <img src=".github/assets/circuit2.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 2" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src=".github/assets/circuit3.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 3" />
+    </td>
+    <td align="center">
+      <img src=".github/assets/materials.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 4" />
+    </td>
+  </tr>
+  <td align="center">
+      <img src=".github/assets/fisicCircuit.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 4" />
+    </td>
+  </tr>
+  <td align="center">
+      <img src=".github/assets/distanceSensor.png" width="300px" height="200px" style="object-fit: cover;" alt="Proyecto 4" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -136,10 +162,10 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
 ### 📡 Start Connection
 
 <div align="center">
-  <a href="TU_LINKEDIN">
+  <a href="www.linkedin.com/in/manuel-enrique-antias-rodríguez-437219267">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO">
+  <a href="mailto:meantias.23@est.ucab.edu.ve">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
