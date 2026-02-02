@@ -103,7 +103,7 @@ I have a strong interest in robotics. In addition to my academic studies, I orga
 > *My hardware and software experiments.*
 
 <div align="center">
-  <a href="https://www.tinkercad.com/dashboard/designs/all" target="_blank">
+  <a href="https://www.tinkercad.com/users/cmcQ1xW4JlY">
     <img src="https://img.shields.io/badge/See_my_circuits_on-TINKERCAD-2481f2?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
   </a>
 </div>
