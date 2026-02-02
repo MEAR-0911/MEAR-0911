@@ -160,10 +160,10 @@ I have a strong interest in robotics. In addition to my academic studies, I orga
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manuel-enrique-antias-rodríguez-437219267">
-    <img src=".github/assets/linkedin.png" height="100"/>
+    <img src=".github/assets/linkedin.png" height="70"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=meantias.23@est.ucab.edu.ve">
-    <img src=".github/assets/gmail.png" height="100"/>
+    <img src=".github/assets/gmail.png" height="70"/>
   </a>
 </div>
