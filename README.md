@@ -14,19 +14,17 @@
 
 > *"Engineering is the closest thing to magic that exists in the real world."*
 
-¡Hola! 👋 Soy estudiante de **Ingeniería Informática** en la **UCAB (Caracas)**. Mi "Main Quest" actual es graduarme y desarrollar soluciones que unan el mundo digital con el físico.
+Hi! 👋 I'm a **Computer Engineering** student at **UCAB (Caracas)**, passionate about creating technologies that make a difference and help build a prosperous future.
 
-Combino la disciplina de la ingeniería con la creatividad del desarrollo de videojuegos y la robótica. No solo escribo código; construyo sistemas.
+I have a strong interest in robotics. In addition to my academic studies, I organize the **Robotics Club** at my university, where I've developed personal projects focused on **IoT (Internet of Things)** and systems **automation**.
 
-* 🔭 **Misión Actual:** Profundizando en **Robótica & IoT** con el Club de Robótica.
-* ⚡ **Habilidad Especial:** Integración de **IA Generativa** (Gemini, Claude) para potenciar el desarrollo de software.
-* 👾 **Hobby:** Desarrollo de circuitos, Pixel Art y Gaming.
+**🏆 Notable Achievement:** Winner of the **Banesco Innova 2025** challenge. Together with my team, we set a precedent by presenting the first functional prototype in the competition's history, demonstrating my ability to manage projects and deliver tangible products.
 
 ---
 
-### ⚔️ Inventory & Skill Tree
+### ⚔️ Inventory & Skill
 
-Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fueran clases de un RPG.
+> *Here is my technological arsenal.*
 
 ### 👨‍💻 Languages
 <div align="center">
@@ -102,7 +100,7 @@ Aquí está mi arsenal tecnológico. He clasificado mis herramientas como si fue
 ---
 
 ### 🔌 Hardware Lab (Robótica)
-*Mis experimentos uniendo bits y átomos.*
+> *My hardware and software experiments.*
 
 <div align="center">
   <a href="https://www.tinkercad.com/dashboard/designs/all" target="_blank">
