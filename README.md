@@ -99,12 +99,12 @@ I have a strong interest in robotics. In addition to my academic studies, I orga
 
 ---
 
-### 🔌 Hardware Lab (Robótica)
+### 🔌 Hardware Lab (Robotic)
 > *My hardware and software experiments.*
 
 <div align="center">
   <a href="https://www.tinkercad.com/dashboard/designs/all" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_mis_circuitos_en-TINKERCAD-2481f2?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
+    <img src="https://img.shields.io/badge/See_my_circuits_on-TINKERCAD-2481f2?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
   </a>
 </div>
 
@@ -136,7 +136,7 @@ I have a strong interest in robotics. In addition to my academic studies, I orga
 
 ---
 
-### 🏆 Scoreboard (Estadísticas)
+### 🏆 Scoreboard (Statistics)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MEAR-0911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC" height="180" alt="Stats Generales" />
