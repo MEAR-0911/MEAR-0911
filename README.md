@@ -139,9 +139,9 @@ I have a strong interest in robotics. In addition to my academic studies, I orga
 ### 🏆 Scoreboard (Statistics)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEAR-0911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC" height="180" alt="Stats Generales" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MEAR-0911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC" height="180" alt="Stats Generales" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEAR-0911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC" height="180" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MEAR-0911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00CC&icon_color=FF00CC" height="180" alt="Lenguajes Top" />
 </div>
 
 <div align="center">
